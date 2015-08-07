@@ -1,2 +1,2 @@
 # PythonBasic
-Python beginner's code follow Liao Xuefeng
+learning python programming Follow Liao Xuefeng
